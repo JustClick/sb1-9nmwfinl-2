@@ -22,7 +22,7 @@ const CookiePolicy = ({ onClose }) => {
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Cookie Policy</h2>
 
           <div className="prose max-w-none">
-            <p className="mb-4">Last updated: March 15, 2024</p>
+            <p className="mb-4">Last updated: February 12, 2025</p>
 
             <section className="mb-8">
               <h3 className="text-xl font-semibold mb-4">1. What Are Cookies</h3>
